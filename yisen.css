@@ -9,7 +9,7 @@ body{
 	line-height:1.5em;
 	padding:1em;
 	margin:auto;
-	max-width:42em;
+	max-width:60em;
 	background:#fefefe;
 }
 
@@ -29,6 +29,7 @@ h2 {
 }
 
 h3 {
+	border-bottom: 2px solid #CCCCCC;
 	font-size: 18px;
 }
 
